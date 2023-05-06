@@ -12,3 +12,6 @@ The formal intro to statistics. This chapter is kind of fun and builds on the pr
 
 **[Chapter 4](https://github.com/jacobpstein/math_for_ds/blob/main/Chapter4.ipynb)**
 Vectors are tough to explain without showing the reader what you're talking about. This chapter attempts that, but felt like a bad Medium post at times in that it occasionally falls into using jargon to explain topics rather than getting at their underlying point. Overall, an important, often glossed over topic in data science that I'm glad to get a refersher on.
+
+**[Chapter 5](https://github.com/jacobpstein/math_for_ds/blob/main/Chapter5.ipynb)**
+I read this chapter and then went back and quickly ran through some of the examples and exercises many weeks later. On one level, this chapter, like chapter 1 of every stats book where you learn about mean and mode, felt slightly perfunctory, but it's a brief chapter en route to the juicy stuff. Also, it was fun (in the most messed up way possible for a data science book) to revist the formulas that regression is built on instead of assuming the folks at scikit-learn and every other package got it right. On a basic level, it gives you an appreciation for just how much goes into the basic functions of the major packages. This chapter is great, though, for showing how each of the previous chapters build up to actually fitting a model. 
