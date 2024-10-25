@@ -1,5 +1,5 @@
 # math_for_ds
-Exercises and lesson from the book [Essential Math for Data Science by Thomas Nield](https://www.oreilly.com/library/view/essential-math-for/9781098102920/). Mostly just creating this repo to force myself to work through this book.
+Exercises and lessons from the book [Essential Math for Data Science by Thomas Nield](https://www.oreilly.com/library/view/essential-math-for/9781098102920/). Mostly just creating this repo to force myself to work through this book.
 
 **[Chapter 1](https://github.com/jacobpstein/math_for_ds/blob/main/Chapter1.ipynb)**
 This chapter does a good job setting the tone for the book. If you are comfortable with the level of detail here, buckle up, this is the book for you! If you want more, you should keep going for a few more chapters. The first chapter of stats books is always a little rough, but this is one of the better ones as far as introducing the reader to the broad sweep of math and stats, as well as python and data science broadly.
